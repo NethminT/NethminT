@@ -42,7 +42,7 @@
 
 <ul align="left">
   <li>
-    <strong>ME3261 Mechatronic System Design Project</strong> – Design and Development of a Autonomous Solar-Powered Agribot
+    <a href="https://github.com/NethminT/Mechatronic-System-Design.git" target="_blank"><strong>ME3261 Mechatronic System Design Project</strong></a> – Design and Development of a Autonomous Solar-Powered Agribot
   </li>
 </ul>
 
