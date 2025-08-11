@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Programming Languages and Software Tools</h2>
 
 ###
 
@@ -37,3 +37,12 @@
 </div>
 
 ###
+
+<h2 align="left">Projects</h2>
+
+<ul align="left">
+  <li>
+    <strong>ME3261 Mechatronic System Design Project</strong> – Design and Development of a Autonomous Solar-Powered Agribot
+  </li>
+</ul>
+
