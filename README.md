@@ -56,8 +56,6 @@
   <img src="https://www.svgrepo.com/show/508968/solidworks.svg" height="40" alt="solidworks logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/opencv/original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/labview/original.svg"> height="40" alt="labview logo"  />
 </div>
 
 ###
