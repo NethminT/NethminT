@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Programming Languages and Software Tools</h2>
+<h2 align="left">Programming Languages and Software Tools ⚙️💻</h2>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -50,6 +52,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/508968/solidworks.svg" height="40" alt="solidworks logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/opencv/original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/labview/original.svg"> height="40" alt="labview logo"  />
 </div>
 
 ###
