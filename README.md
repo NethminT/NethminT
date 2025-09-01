@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h1 align="left">Hey 👋 I'm Nethmin Perera</h1>
 
 ###
 
@@ -10,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎓 I am a prospective PhD student with a strong research interest in Robotics, Control Systems, and Intelligent Systems.<br>🎓 I recently graduated with a BSc (Hons) in Mechanical Engineering, specializing in Mechatronic Systems Engineering, from the University of Moratuwa, Sri Lanka.<br>🎓 Currently, I am working as a Teaching Assistant in the Department of Mechanical Engineering at the University of Moratuwa, where I assist in teaching, research supervision, and laboratory instruction for undergraduate students.<br>🎲 Fun fact: ...</p>
 
 ###
 
