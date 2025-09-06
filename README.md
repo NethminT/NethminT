@@ -66,5 +66,9 @@
   <li>
     Design and Development of a Autonomous Solar-Powered Agribot - <a href="https://github.com/NethminT/Mechatronic-System-Design.git" target="_blank"><strong>Project Details</strong></a> 
   </li>
+
+  <li>
+    Design of a Plant Wearable Device for Assessing Microclimatic Impact on Plant Growth - <a href="https://github.com/NethminT/Mechatronic-System-Design.git" target="_blank"><strong>Project Details</strong></a> 
+  </li>
 </ul>
 
