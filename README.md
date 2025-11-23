@@ -65,6 +65,9 @@
 
   <li>
     Design of a Plant Wearable Device for Assessing Microclimatic Impact on Plant Growth - <a href="https://github.com/NethminT/Plant-wearable-device.git" target="_blank"><strong>Project Details</strong></a> 
+    <p align="center">
+  <img align="center" src="images/MEMS_1.PNG" alt="Agribot Prototype" width="450">
+  </p>
   </li>
 </ul>
 
