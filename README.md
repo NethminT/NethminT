@@ -57,9 +57,17 @@
 <ul align="left">
 
   <li>
+    IoT-Based Automation System for Vertical Hydroponic Systems - <a href="https://ieeexplore.ieee.org/document/10965271" target="_blank"><strong>Conference Publication</strong></a> 
+  <p align="center">
+  <img align="center" src="images/Algorithm_1.PNG" alt="Hydroponic Robot" width="400">
+  </p>
+
+  </li>
+
+  <li>
     Intelligent Algorithm for Optimizing Hydroponic Solution in IoT Integrated Agriculture Systems - <a href="https://ieeexplore.ieee.org/document/10689134" target="_blank"><strong>Conference Publication</strong></a> 
   <p align="center">
-  <img align="center" src="images/Algorithm_1.PNG" alt="Nurse calling system" width="650">
+  <img align="center" src="images/Algorithm_1.PNG" alt="Algorithm" width="650">
   </p>
 
   </li>
