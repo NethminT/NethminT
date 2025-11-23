@@ -55,6 +55,15 @@
 <h2 align="left">Projects 🎯💻🛠️</h2>
 
 <ul align="left">
+
+  <li>
+    Intelligent Algorithm for Optimizing Hydroponic Solution in IoT Integrated Agriculture Systems - <a href="https://ieeexplore.ieee.org/document/10689134" target="_blank"><strong>Conference Publication</strong></a> 
+  <p align="center">
+  <img align="center" src="images/Nurse_calling_1.PNG" alt="Nurse calling system" width="400">
+  </p>
+
+  </li>
+  
   <li>
     Design and Development of an Autonomous Solar-Powered Agribot - <a href="https://github.com/NethminT/Mechatronic-System-Design.git" target="_blank"><strong>Project Details</strong></a> 
   <p align="center">
