@@ -57,9 +57,10 @@
 <ul align="left">
   <li>
     Design and Development of an Autonomous Solar-Powered Agribot - <a href="https://github.com/NethminT/Mechatronic-System-Design.git" target="_blank"><strong>Project Details</strong></a> 
-  <br>
+  <p align="center">
   <img align="center" src="images/Agribot_3.PNG" alt="Agribot Prototype" width="350">
-  <br>
+  </p>
+
   </li>
 
   <li>
