@@ -59,7 +59,7 @@
   <li>
     IoT-Based Automation System for Vertical Hydroponic Systems - <a href="https://ieeexplore.ieee.org/document/10965271" target="_blank"><strong>Conference Publication</strong></a> 
   <p align="center">
-  <img align="center" src="images/Algorithm_1.PNG" alt="Hydroponic Robot" width="400">
+  <img align="center" src="images/AGV_1.PNG" alt="Hydroponic Robot" width="400">
   </p>
 
   </li>
