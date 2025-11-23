@@ -15,8 +15,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -57,7 +55,7 @@
 <ul align="left">
 
   <li>
-    IoT-Based Automation System for Vertical Hydroponic Systems - <a href="https://ieeexplore.ieee.org/document/10965271" target="_blank"><strong>Conference Publication</strong></a> 
+    IoT-Based Automation System for Vertical Hydroponic Systems - <a href="https://ieeexplore.ieee.org/document/10965271" target="_blank"><strong>Conference Publication</strong> </a>, <a href="https://drive.google.com/file/d/1cKXzgHCAYxTo9eyB8GINSNvFHGn3KmPe/view?usp=drive_link" target="_blank"><strong>Project Video</strong> </a> 
   <p align="center">
   <img align="center" src="images/AGV_1.PNG" alt="Hydroponic Robot" width="400">
   </p>
