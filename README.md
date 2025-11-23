@@ -73,7 +73,7 @@
   <li>
     Design and Development of an ESP-Based Wireless Nurse Calling System for Patient Care - <a href="https://github.com/NethminT/Nurse-calling-system" target="_blank"><strong>Project Details</strong></a> 
   <p align="center">
-  <img align="center" src="images/Nurse_calling_1.PNG" alt="Nurse calling system" width="350">
+  <img align="center" src="images/Nurse_calling_1.PNG" alt="Nurse calling system" width="400">
   </p>
 
   </li>
