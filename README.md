@@ -59,7 +59,7 @@
   <li>
     Intelligent Algorithm for Optimizing Hydroponic Solution in IoT Integrated Agriculture Systems - <a href="https://ieeexplore.ieee.org/document/10689134" target="_blank"><strong>Conference Publication</strong></a> 
   <p align="center">
-  <img align="center" src="images/Nurse_calling_1.PNG" alt="Nurse calling system" width="400">
+  <img align="center" src="images/Algorithm_1.PNG" alt="Nurse calling system" width="650">
   </p>
 
   </li>
