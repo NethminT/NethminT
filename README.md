@@ -66,14 +66,14 @@
   <li>
     Design of a Plant Wearable Device for Assessing Microclimatic Impact on Plant Growth - <a href="https://github.com/NethminT/Plant-wearable-device.git" target="_blank"><strong>Project Details</strong></a> 
     <p align="center">
-  <img align="center" src="images/MEMS_1.PNG" alt="Agribot Prototype" width="550">
+  <img align="center" src="images/MEMS_1.PNG" alt="Plant Wearable Device" width="550">
   </p>
   </li>
 
   <li>
     Design and Development of an ESP-Based Wireless Nurse Calling System for Patient Care - <a href="https://github.com/NethminT/Nurse-calling-system" target="_blank"><strong>Project Details</strong></a> 
   <p align="center">
-  <img align="center" src="images/Agribot_3.PNG" alt="Agribot Prototype" width="350">
+  <img align="center" src="images/Nurse_calling_1.PNG" alt="Nurse calling system" width="350">
   </p>
 
   </li>
