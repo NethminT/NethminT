@@ -93,6 +93,14 @@
 
   </li>
 
+  <li>
+    Development of an Automated Oil Dispensing System - <a href="https://github.com/NethminT/Automated-oil-filler" target="_blank"><strong>Project Details</strong></a> 
+  <p align="center">
+  <img align="center" src="images/Nurse_calling_1.PNG" alt="Nurse calling system" width="400">
+  </p>
+
+  </li>
+
 
 </ul>
 
