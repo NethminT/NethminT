@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 <strong>Prospective PhD student</strong> with a strong research interest in <strong>Robotics</strong>, <strong>Control Systems</strong>, and <strong>Intelligent Systems</strong>.<br><br>🎓 Graduated with a <strong>BSc (Hons) in Mechanical Engineering</strong>, specializing in Mechatronic Systems Engineering, from the University of Moratuwa, Sri Lanka.<br><br>🎓 Currently working as a <strong>Teaching Assistant</strong> in the Department of Mechanical Engineering at the University of Moratuwa, where I assist in teaching, research supervision, and laboratory instruction for undergraduate students.
+<p align="left">🎓 <strong>Prospective MSc/PhD student</strong> with a strong research interest in <strong>Robotics</strong>, <strong>Control Systems</strong>, and <strong>Intelligent Systems</strong>.<br><br>🎓 Graduated with a <strong>BSc (Hons) in Mechanical Engineering</strong>, specializing in Mechatronic Systems Engineering, from the University of Moratuwa, Sri Lanka.<br><br>🎓 Currently working as a <strong>Teaching Assistant</strong> in the Department of Mechanical Engineering at the University of Moratuwa, where I assist in teaching, research supervision, and laboratory instruction for undergraduate students.
 
 ###
 
